@@ -4,10 +4,10 @@
 
 * **小组名称：** 水质数据科学与机器学习探索小组
 * **小组成员：**
-  * 万雨捷 @welljie12138
+  * 万雨捷:@welljie12138
   * 邓宇晴 @den-160
   * 李亚森 @ARSEN-4321
-  * 唐成瀚 @Downey888
+  * 唐成翰 @Downey888
 * **项目名称：** 基于多维理化指标的饮用水水质机器学习预测全流程复现
 * **原始开源参考：** [Water-Classification-Capstone-Project](https://github.com/annsam0115/Water-Classification-Capstone-Project)
 * **本组作业仓库链接：** [https://github.com/welljie12138/Water-Potability-Prediction]
